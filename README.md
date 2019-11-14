@@ -6,3 +6,5 @@ Visualization Code was largely adopted from https://github.com/thecountoftuscany
 IMU2Quat_UDP.py is run on the Beaglebone Blue. It requires installation of rcpy if not already installed. 
 
 UDPtoVis.py will run on a laptop. It requires installation of pygame and OpenGL if not already installed. 
+
+You may need to adjust the Socket/UDP settings according to your own beaglebone and Laptop.
